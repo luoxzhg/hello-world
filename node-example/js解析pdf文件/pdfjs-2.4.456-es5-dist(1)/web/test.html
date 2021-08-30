@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="google" content="notranslate">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>测试获取pdf信息</title>
+
+</head>
+<body>
+<input id="files1" name="fileupload" type="file" value="" onchange="fileChange()" />
+</body>
+<script>
+  var files1 = document.getElementById('files1');
+  function fileChange () {
+    console.log(files1.files[0].name)
+    var url = files1.files[0].name;
+    window.location.href = "./viewer.html?file=" + url // 当前页打开
+   // window.open("./viewer.html?file=" + url) // 新界面打开
+  }
+</script>
+</html>

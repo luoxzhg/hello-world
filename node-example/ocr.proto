@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package imo_ocr;
+
+
+message Point {
+    float x = 1;
+    float y = 2;
+}
+
+message OcrResultInfo {
+    repeated Point points = 1;
+    string ocr_str = 2;
+    float confidence = 3;
+}
+
+message ExecReq {
+    bytes image  = 1;
+    int32  max_lines = 2;
+}
+
+message ExecResp {
+    repeated OcrResultInfo ocr_infos = 1;
+}
+
+service imo_service {
+
+    rpc imo_ocr(ExecReq) returns (ExecResp) {}
+
+}
