@@ -1,0 +1,19 @@
+{
+  "name": "contract-library-manager",
+  "version": "0.0.1",
+  "description": "管理合同库",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "cos-nodejs-sdk-v5": "^2.9.21",
+    "dotenv": "^10.0.0",
+    "file-type": "^16.5.0",
+    "mammoth": "^1.4.17",
+    "word-extractor": "^1.0.3"
+  }
+}
