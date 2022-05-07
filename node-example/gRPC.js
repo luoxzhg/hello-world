@@ -25,9 +25,9 @@ const metadata = new grpc.Metadata({
 })
 
 const callOptions = {
-    deadline: Date.now() + 1*1000
+    deadline: Date.now() + 10*1000
 }
-const buffer = readFileSync('./1_03.png')
+const buffer = readFileSync('./a')
 
 const result = ocr_service({
     image: buffer,
@@ -49,5 +49,5 @@ const result = ocr_service({
     })
     console.log(inspect(strs, false, null, true))
 }).catch(e => {
-    console.log(e.constructor)
+    console.log(e)
 })

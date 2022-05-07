@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+    xmlns:v="urn:schemas-microsoft-com:vml"
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+    xmlns:w10="urn:schemas-microsoft-com:office:word"
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+    <w:body>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p1"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>：（）；，劳动合同书</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p2"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>甲方</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s1"/>
+                </w:rPr>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:t>用人单位</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s1"/>
+                </w:rPr>
+                <w:t>）</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">： </w:t>
+            </w:r>
+            <w:r>
+                <w:t>深圳</w:t>
+            </w:r>
+            <w:commentRangeStart w:id="0"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>法库</w:t>
+            </w:r>
+            <w:commentRangeStart w:id="1"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>（...）</w:t>
+            </w:r>
+            <w:commentRangeEnd w:id="1"/>
+            <w:r>
+                <w:commentReference w:id="1"/>
+            </w:r>
+            <w:commentRangeEnd w:id="0"/>
+            <w:r>
+                <w:commentReference w:id="0"/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>科技有</w:t>
+            </w:r>
+            <w:commentRangeStart w:id="2"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>点</w:t>
+            </w:r>
+            <w:commentRangeStart w:id="3"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>（...）</w:t>
+            </w:r>
+            <w:commentRangeEnd w:id="3"/>
+            <w:r>
+                <w:commentReference w:id="3"/>
+            </w:r>
+            <w:commentRangeEnd w:id="2"/>
+            <w:r>
+                <w:commentReference w:id="2"/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>公司</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p2"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>住</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>所</w:t>
+            </w:r>
+            <w:r>
+                <w:t>：</w:t>
+            </w:r>
+            <w:r>
+                <w:t>深圳市前海深港合作区前湾一路</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s1"/>
+                </w:rPr>
+                <w:t xml:space="preserve">1 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>号</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s1"/>
+                </w:rPr>
+                <w:t xml:space="preserve">A </w:t>
+            </w:r>
+            <w:r>
+                <w:t>栋</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s1"/>
+                </w:rPr>
+                <w:t xml:space="preserve">221 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>室</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>性</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>质</w:t>
+            </w:r>
+            <w:r>
+                <w:t>：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p3"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>法定代表人</w:t>
+            </w:r>
+            <w:r>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:t>主要负责人</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">）： </w:t>
+            </w:r>
+            <w:r>
+                <w:t>杨强</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p4"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s2"/>
+                </w:rPr>
+                <w:t>联系方式</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s2"/>
+                </w:rPr>
+                <w:t xml:space="preserve">： </w:t>
+            </w:r>
+            <w:r>
+                <w:t>0731-2879-4562</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p2"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>乙方</w:t>
+            </w:r>
+            <w:r>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:t>劳动者</w:t>
+            </w:r>
+            <w:r>
+                <w:t>）：</w:t>
+            </w:r>
+            <w:commentRangeStart w:id="4"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>李林</w:t>
+            </w:r>
+            <w:commentRangeStart w:id="5"/>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>（...）</w:t>
+            </w:r>
+            <w:commentRangeEnd w:id="5"/>
+            <w:r>
+                <w:commentReference w:id="5"/>
+            </w:r>
+            <w:commentRangeEnd w:id="4"/>
+            <w:r>
+                <w:commentReference w:id="4"/>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p2"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>年龄</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">： </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s1"/>
+                </w:rPr>
+                <w:t xml:space="preserve">26 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>岁</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p2"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>性别</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">： </w:t>
+            </w:r>
+            <w:r>
+                <w:t>男</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p2"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>住址</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">： </w:t>
+            </w:r>
+            <w:r>
+                <w:t>深圳市南山区留仙大道</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s1"/>
+                </w:rPr>
+                <w:t xml:space="preserve">1201 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>号平山公寓</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>联系方式</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">： </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s1"/>
+                </w:rPr>
+                <w:t>189-5623-1478</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p2"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>紧急联系人姓名</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">： </w:t>
+            </w:r>
+            <w:r>
+                <w:t>李双</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p5"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s3"/>
+                </w:rPr>
+                <w:t>紧急联系人联系方式</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s3"/>
+                </w:rPr>
+                <w:t xml:space="preserve">： </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s3"/>
+                </w:rPr>
+                <w:t>身份证号码</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s3"/>
+                </w:rPr>
+                <w:t>：</w:t>
+            </w:r>
+            <w:r>
+                <w:t>430181199311210816</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>甲乙双方根据《中华人民共和国劳动法》和《中华人民共和国劳动合同法》</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>等法律、法规、规章的规定，经协商一致，自愿订立本劳动合同。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>一、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>合同期限</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>本合同为下列第</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">1 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>项</w:t>
+            </w:r>
+            <w:r>
+                <w:t>：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、固定期限。本合同自</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">2017 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">5 </w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">14 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>日至</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">2019 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>年月</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>5</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p5"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>           157-1236-4587</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>13</w:t>
+            </w:r>
+            <w:r>
+                <w:t>日止。</w:t>
+            </w:r>
+            <w:r>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:t>其中试用期自</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">2017 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">5 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>14</w:t>
+            </w:r>
+            <w:r>
+                <w:t>日至</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">2017 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">6 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">13 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>日止，期限为</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">1 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>个月</w:t>
+            </w:r>
+            <w:r>
+                <w:t>）</w:t>
+            </w:r>
+            <w:r>
+                <w:t>。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、无固定期限。本合同自</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>日起生效。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>3</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、以完成一定的工作任务为期限，自</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>任务</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>完成时即行终止。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>二、工作内容和工作地点</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>甲方根据生产工作任务的需要，安排乙方在</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> （</w:t>
+            </w:r>
+            <w:r>
+                <w:t>地点</w:t>
+            </w:r>
+            <w:r>
+                <w:t>）</w:t>
+            </w:r>
+            <w:r>
+                <w:t>承担</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>工作任务。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>三、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>工作时间和休息休假</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>日起至工作</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>销售</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>部门</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:lastRenderedPageBreak/>
+                <w:t></w:t>
+            </w:r>
+            <w:r>
+                <w:t>本合同实行下列第</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> 1 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>项工时制。</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> 1</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、标准工时制，每日工作时间不超过八小时，每周工作时间不超过四</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>十小时，每周至少休息一天。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、综合工时制，按</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">   （</w:t>
+            </w:r>
+            <w:r>
+                <w:t>周、月、季、年</w:t>
+            </w:r>
+            <w:r>
+                <w:t>）</w:t>
+            </w:r>
+            <w:r>
+                <w:t>为周期综合计算工作时间，</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>平均日工作时间和平均周工作时间与法定标准工作时间基本相同。</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>3</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、不定时工时制，每一工作日没有固定的上下班时间限制。</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>乙方在合同期内享受国家规定的各项休息、休假的权利，甲方因生产</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>工作需要安排乙方加班加点的，按国家规定支付加班工资或安排补休。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>实行综合工时制、不定时工时制需经人力资源和社会保障行政部门批</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>准。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>四、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>劳动保护和劳动条件</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、甲方应严格执行国家和地方有关劳动保护的法律、法规和规章，</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>依法为乙方提供必要的劳动条件，建立健全生产工艺流程，制定操作规程、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>工作规范和劳动安全卫生制度及其标准，保障乙方的安全和健康。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、甲方负责对乙方进行职业道德、业务技术、</w:t>
+            </w:r>
+            <w:r>
+                <w:t>安全生产的教育和培</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>训</w:t>
+            </w:r>
+            <w:r>
+                <w:t>；</w:t>
+            </w:r>
+            <w:r>
+                <w:t>乙方从事国家规定的就业准入工种</w:t>
+            </w:r>
+            <w:r>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:t>职业</w:t>
+            </w:r>
+            <w:r>
+                <w:t>）</w:t>
+            </w:r>
+            <w:r>
+                <w:t>的，应取得相应的职业资</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>格证书，持证上岗。在工作中严格遵守安全操作规程。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>3</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、甲方安排乙方从事接触职业病危害作业的，甲方应按国家有关规</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>定在乙方上岗前和离岗时进行职业健康检查，在合同期内应定期对乙方进</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>行职业健康检查。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>4</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、乙方有权拒绝甲方的违章指挥，对甲方及其管理人员漠视乙方安</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>全健康的行为，有权提出批评并向有关部门检举控告。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>五、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>劳动报酬</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、甲方于每月</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>日前，以货币形式支付乙方工资</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>元。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、非因乙方原因造成甲方停工、停产、歇业、</w:t>
+            </w:r>
+            <w:r>
+                <w:t>未超一个月的，甲</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>方应按本合同约定的工资标准支付乙方工资</w:t>
+            </w:r>
+            <w:r>
+                <w:t>；</w:t>
+            </w:r>
+            <w:r>
+                <w:t>超过一个月，未安排</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>乙方工作的，甲方应按不低于当地失业保险标准支付乙方停工生活</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>费。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>3</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、甲方安排乙方每日</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">22 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>时至次日</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t xml:space="preserve">6 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>时</w:t>
+            </w:r>
+            <w:bookmarkStart w:id="6" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="6"/>
+            <w:r>
+                <w:t>期间工作的，按规定支付夜班津</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>贴。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s4"/>
+                </w:rPr>
+                <w:t>4</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、乙方依法享受年休假、探亲假、婚丧等假期期间，甲方按国家</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>规定或约定的标准，支付乙方工资。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>5</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、甲方可执行依据政府公布的工资指导价位、工资增长指导线，</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>与工会</w:t>
+            </w:r>
+            <w:r>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:t>职工代表</w:t>
+            </w:r>
+            <w:r>
+                <w:t>）</w:t>
+            </w:r>
+            <w:r>
+                <w:t>平等协商确定的工资分配办法。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>六、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>社会保险和福利待遇</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、甲方依照国家规定为乙方缴纳基本养老、基本医疗、工伤、失业</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>生育等社会保险费</w:t>
+            </w:r>
+            <w:r>
+                <w:t>；</w:t>
+            </w:r>
+            <w:r>
+                <w:t>社会保险费个人缴纳部分，甲方可从乙方工资中</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>代扣代缴。</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> 2</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、乙方患病或非因工负伤的医疗待遇按国家有关规定执行。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>3</w:t>
+            </w:r>
+            <w:r>
+                <w:t>、甲方为乙方提供以下福利待遇。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>七、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>劳动合同的履行、变更、解除和终止</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>依照《中华人民共和国劳动合同法》第二十九条至五十条的规定执行。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>八、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>违反劳动合同的法律责任</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>甲乙双方一方违反合同，给对方造成损失的，应承担相应的赔偿</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>责任。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>九、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>双方约定的其他事项</w:t>
+            </w:r>
+            <w:r>
+                <w:t>：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>无</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>在培训服务期和竞业限制协议中可以约定违约金外，其他情况</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>下，不得约定由劳动者承担违约金。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:lastRenderedPageBreak/>
+                <w:t>十、</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>因履行本合同发生争议，依照国家规定处理。本合同未尽事宜，按</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p6"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>国家规定执行。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p7"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>十一、本合同一式二份，甲、乙双方各执一份。自签约时生效。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p7"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>甲方</w:t>
+            </w:r>
+            <w:r>
+                <w:t>：</w:t>
+            </w:r>
+            <w:r>
+                <w:t>深圳法库科技有限公司</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:t>法定代表人</w:t>
+            </w:r>
+            <w:r>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:t>主要负责人</w:t>
+            </w:r>
+            <w:r>
+                <w:t>）：</w:t>
+            </w:r>
+            <w:r>
+                <w:t>杨强</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s5"/>
+                </w:rPr>
+                <w:t>2017</w:t>
+            </w:r>
+            <w:r>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s5"/>
+                </w:rPr>
+                <w:t xml:space="preserve">5 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s5"/>
+                </w:rPr>
+                <w:t xml:space="preserve">14 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>日</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="00E4650C">
+            <w:pPr>
+                <w:pStyle w:val="p7"/>
+                <w:widowControl/>
+            </w:pPr>
+            <w:r>
+                <w:t>乙方</w:t>
+            </w:r>
+            <w:r>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r>
+                <w:t>签名</w:t>
+            </w:r>
+            <w:r>
+                <w:t>）：</w:t>
+            </w:r>
+            <w:r>
+                <w:t>李林</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"></w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s5"/>
+                </w:rPr>
+                <w:t>2017</w:t>
+            </w:r>
+            <w:r>
+                <w:t>年</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s5"/>
+                </w:rPr>
+                <w:t xml:space="preserve">5 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>月</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="s5"/>
+                </w:rPr>
+                <w:t xml:space="preserve">14 </w:t>
+            </w:r>
+            <w:r>
+                <w:t>日</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006E16FA" w:rsidRDefault="006E16FA"/>
+        <w:sectPr w:rsidR="006E16FA" w:rsidSect="006E16FA">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992" w:gutter="0"/>
+            <w:cols w:space="425"/>
+            <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

@@ -1,16 +1,15 @@
 const { readFileSync } = require('fs')
 const { diffChars } = require('diff')
 
-const str = readFileSync('./text.txt', {encoding: 'utf-8'})
-console.log(str)
-const oldStr = str
-const newStr = str
+const oldStr = readFileSync('./diff.txt', {encoding: 'utf-8'})
+const newStr = readFileSync('./diff2.txt', {encoding: 'utf-8'})
 
 const time = Date.now()
-diffChars(oldStr, newStr)
+const result = diffChars(oldStr, newStr)
 const endTime = Date.now()
 const delta = endTime - time
 
+console.log(result)
 console.log(oldStr.length, newStr.length, delta)
 
 const oldStr2 = oldStr.substr(0, oldStr.length/10)

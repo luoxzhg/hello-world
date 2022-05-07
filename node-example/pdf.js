@@ -1,9 +1,9 @@
 const fs = require('fs');
 
 const canvasLib = require('canvas');
-const pdfjsLib = require('pdfjs-dist/build/pdf.js');
+const pdfjsLib = require('pdfjs-dist/legacy/build/pdf');
 
-const pdfPath = 'a-1.pdf';
+const pdfPath = '测试2.pdf';
 const data = new Uint8Array(fs.readFileSync(pdfPath));
 
 const loadingTask = pdfjsLib.getDocument({ data });
@@ -18,24 +18,32 @@ async function extractImages() {
             const opList = await page.getOperatorList();
 
             for (let i = 0; i < opList.fnArray.length; i++) {
+                // 经观察，水印不是第一个图像
                 if (
                     opList.fnArray[i] == pdfjsLib.OPS.paintJpegXObject ||
                     opList.fnArray[i] == pdfjsLib.OPS.paintImageXObject
                 ) {
                     const op = opList.argsArray[i][0];
-                    const img = page.objs.get(op);
+                    const getPageObject = objId => new Promise((resolve, reject) => {
+                        const _getPageObject = objId.startsWith("g_") ? page.commonObjs.get.bind(page.commonObjs) : page.objs.get.bind(page.objs)
+                        _getPageObject(objId, data => {
+                            resolve(data)
+                        })
+                    })
+                    const img = await getPageObject(op);
 
-                    if (img.data.length < 50000 ) {
-                        continue
-                    }
+                    // if (img.data.length < 1e7 ) {
+                    //     continue
+                    // }
                     // const scale = img.width / page.view[2];
                     // const viewport = page.getViewport({ scale: scale });
 
                     const canvas = canvasLib.createCanvas(img.width, img.height);
                     const ctx = canvas.getContext('2d');
-                    const imageData = ctx.createImageData(img.width, img.height);
-                    const imageBytes = imageData.data;
 
+                    const imageData = ctx.createImageData(img.width, img.height);
+
+                    const imageBytes = imageData.data;
                     for (let j = 0, k = 0, jj = img.width * img.height * 4; j < jj;) {
                         imageBytes[j++] = img.data[k++];
                         imageBytes[j++] = img.data[k++];
@@ -43,11 +51,13 @@ async function extractImages() {
                         imageBytes[j++] = 255;
                     }
 
-                    canvas.width = img.width;
-                    canvas.height = img.height;
+                    // canvas.width = img.width;
+                    // canvas.height = img.height;
                     ctx.putImageData(imageData, 0, 0);
 
-                    fs.writeFileSync(op + '.png', canvas.toBuffer('image/png'));
+                    const pngPath = pdfPath + '-' + op + '.png';
+                    console.log(pngPath, ': ', img.data.length)
+                    fs.writeFileSync(pngPath, canvas.toBuffer('image/png'));
                 }
             }
         } catch (error) {
