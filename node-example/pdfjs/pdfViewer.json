@@ -1,0 +1,4548 @@
+{
+   "content": [
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 191.432,
+         "y": 60.0,
+         "width": 9.0,
+         "height": 9.207
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 200.50401,
+         "y": 60.0,
+         "width": 9.0,
+         "height": 9.207
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 209.57602,
+         "y": 60.0,
+         "width": 9.0,
+         "height": 9.207
+      },
+      {
+         "str": "集",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 223.14803,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "团",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 241.22003,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "办",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 259.29205,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "公",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 277.36404,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "物",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 295.43604,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "品",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 313.50803,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "采",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 331.562,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "购",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 349.634,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "合",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 367.706,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": "同",
+         "rotation": 0,
+         "scale": 18.0,
+         "x": 385.77798,
+         "y": 60.0,
+         "width": 18.0,
+         "height": 9.207
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 129.65,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 135.698,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 141.746,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 147.79399,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 153.84198,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 159.88998,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 165.92598,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 171.97398,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 178.02199,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 184.06999,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 190.118,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 196.166,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 202.214,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 208.26201,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 214.31001,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 220.35802,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 226.39401,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 232.44202,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 238.49002,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 244.53802,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 250.58603,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 256.63403,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 262.68204,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 268.73004,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 274.77805,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 280.82605,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 286.87405,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 292.91006,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 298.95807,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 305.00607,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 311.05408,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 317.10208,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 323.1501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 329.1981,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 335.2461,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "编",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 339.6501,
+         "y": 120.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "号",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 351.6501,
+         "y": 120.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 363.6501,
+         "y": 120.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "C",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 375.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "M",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 381.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "H",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 387.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "K",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 393.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "-",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 399.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 405.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 411.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 417.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 423.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "-",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 429.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "C",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 435.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "G",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 441.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "-",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 447.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 453.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "1",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 459.6501,
+         "y": 120.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "本",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "合",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "同",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "由",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "以",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "下",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "双",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "于",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.0,
+         "y": 180.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 162.0,
+         "y": 180.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "年",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 204.0,
+         "y": 180.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 210.0,
+         "y": 180.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 216.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "月",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 228.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 240.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 252.0,
+         "y": 180.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 258.0,
+         "y": 180.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 264.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "日",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 276.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "签",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 288.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "订",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 300.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "于",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 312.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "中",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 324.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "国",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 336.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 348.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 360.0,
+         "y": 180.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 366.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "。",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 372.0,
+         "y": 180.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "甲",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.048,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.096,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.096,
+         "y": 210.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 78.096,
+         "y": 210.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.096,
+         "y": 210.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "集",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 93.096,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "团",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 105.096,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "（",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 117.096,
+         "y": 210.0,
+         "width": 12.000008,
+         "height": 6.138
+      },
+      {
+         "str": "深",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 129.09601,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "圳",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 141.09601,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "）",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 153.09601,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "有",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 165.09601,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "限",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 177.09601,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "公",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 189.09601,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "司",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 201.09601,
+         "y": 210.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "授",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "权",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "代",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "表",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "张",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "三",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 240.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "住",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "所",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "深",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "圳",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "市",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "南",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "山",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "区",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "滨",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "海",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "大",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "道",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "1",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 207.0,
+         "y": 270.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 213.0,
+         "y": 270.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 219.0,
+         "y": 270.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 225.0,
+         "y": 270.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 231.0,
+         "y": 270.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "号",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 240.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 252.0,
+         "y": 270.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "联",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "系",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "人",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "及",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "联",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "系",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "式",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "张",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "四",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 186.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "7",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 198.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "5",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 204.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "5",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 210.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "-",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 216.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "1",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 222.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 228.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "3",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 234.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "4",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 240.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "5",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 246.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "6",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 252.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "7",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 258.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "8",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 264.0,
+         "y": 300.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 270.0,
+         "y": 300.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "乙",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.048,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.096,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "深",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.096,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "圳",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.096,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "X",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 99.096,
+         "y": 360.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "格",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.096,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "电",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.096,
+         "y": 360.0,
+         "width": 12.000008,
+         "height": 6.138
+      },
+      {
+         "str": "子",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.09601,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "服",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.09601,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "务",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.09601,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "有",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.09601,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "限",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.09601,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "公",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.09601,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "司",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 204.09601,
+         "y": 360.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 216.09601,
+         "y": 360.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "法",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "定",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "代",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "表",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "人",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "李",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "三",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 390.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "住",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "所",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "深",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "圳",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "市",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "前",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "海",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "深",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "港",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "合",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "作",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "区",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "前",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 204.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "湾",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 216.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "一",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 228.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "路",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 240.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 255.0,
+         "y": 420.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 261.0,
+         "y": 420.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 267.0,
+         "y": 420.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 273.0,
+         "y": 420.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "号",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 282.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 294.0,
+         "y": 420.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "联",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "系",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "人",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "及",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "联",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "系",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "式",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "：",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "【",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "张",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "四",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 186.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "1",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "7",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 198.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "6",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 204.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "7",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 210.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "7",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 216.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "7",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 222.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "7",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 228.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "8",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 234.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "8",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 240.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "8",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 246.0,
+         "y": 450.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "】",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 252.0,
+         "y": 450.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "（",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "上",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "述",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "“",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "甲",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "”",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "和",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "“",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "乙",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "”",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "以",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "下",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "合",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 204.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "称",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 216.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "为",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 228.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "“",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 240.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "双",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 252.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 264.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "”",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 276.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "，",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 282.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "单",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 294.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "称",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 306.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "为",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 318.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "“",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 330.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "一",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 342.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 354.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "”",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 366.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "。",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 372.0,
+         "y": 510.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": ")",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 384.0,
+         "y": 510.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 540.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 42.0,
+         "y": 540.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 540.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 54.0,
+         "y": 540.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "经",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "甲",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "乙",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "双",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "友",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "好",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "协",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "商",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "，",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.0,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "甲",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 178.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 190.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "委",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 202.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "托",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 214.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "乙",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 226.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 238.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "制",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 250.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "作",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 262.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 277.824,
+         "y": 540.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 283.824,
+         "y": 540.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 289.824,
+         "y": 540.0,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "集",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 298.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "团",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 310.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "办",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 322.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "公",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 334.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "物",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 346.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "品",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 358.824,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "（",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 369.648,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "以",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 381.648,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "下",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 393.648,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "简",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 405.648,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "称",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 417.648,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "“",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 428.47202,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "产",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 440.47202,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "品",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 452.47202,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "”",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 464.47202,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "）",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 470.47202,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "，",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 476.47202,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "合",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 487.29602,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "同",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 499.29602,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "自",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 511.29602,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "双",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 523.296,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "方",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 535.296,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "签",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 547.296,
+         "y": 540.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "订",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 36.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "之",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 48.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "日",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 60.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "起",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 72.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "生",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 84.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "效",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 96.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "，",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 108.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "并",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 120.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "应",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "共",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "同",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "执",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "行",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "和",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "遵",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 204.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "守",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 216.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "本",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 228.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "协",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 240.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "议",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 252.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "书",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 264.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "中",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 276.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "关",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 288.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "于",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 300.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "职",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 312.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "责",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 324.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "、",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 336.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "期",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 348.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "限",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 360.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "、",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 372.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "款",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 384.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "项",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 396.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "及",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 408.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "其",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 420.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "它",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 432.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "相",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 444.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "关",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 456.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "条",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 468.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "款",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 480.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "的",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 492.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "各",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 504.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "项",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 516.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "规",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 528.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "定",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 540.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "。",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 552.0,
+         "y": 570.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "第",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 56.1,
+         "y": 600.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "一",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 68.1,
+         "y": 600.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "条",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 80.1,
+         "y": 600.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "　",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 92.1,
+         "y": 600.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "产",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 104.1,
+         "y": 600.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "品",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 116.1,
+         "y": 600.0,
+         "width": 12.000008,
+         "height": 6.138
+      },
+      {
+         "str": "内",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 128.1,
+         "y": 600.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "容",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 140.1,
+         "y": 600.0,
+         "width": 12.0,
+         "height": 6.138
+      },
+      {
+         "str": "产",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 41.004,
+         "y": 656.968,
+         "width": 11.999996,
+         "height": 6.258
+      },
+      {
+         "str": "品",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 53.052002,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "名",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 65.1,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "称",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 77.147995,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "规",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 153.177,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "格",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 165.225,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "数",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 236.427,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "量",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 248.475,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "单",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 277.527,
+         "y": 649.187,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "价",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 289.575,
+         "y": 649.187,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "（",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 271.503,
+         "y": 664.749,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "元",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 283.551,
+         "y": 664.749,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "）",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 295.599,
+         "y": 664.749,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "总",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 329.127,
+         "y": 649.187,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "价",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 341.17502,
+         "y": 649.187,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "（",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 323.10303,
+         "y": 664.749,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "元",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 335.151,
+         "y": 664.749,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "）",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 347.199,
+         "y": 664.749,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "备",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 407.877,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "注",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 419.92502,
+         "y": 656.968,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "金",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 41.004,
+         "y": 682.624,
+         "width": 11.999996,
+         "height": 6.258
+      },
+      {
+         "str": "斯",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 53.052002,
+         "y": 682.624,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "顿",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 65.1,
+         "y": 682.624,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "内",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 77.147995,
+         "y": 682.624,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "存",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 53.052002,
+         "y": 698.186,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "条",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 65.1,
+         "y": 698.186,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "D",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 132.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "R",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 138.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "4",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 144.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 150.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "4",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 162.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 174.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 180.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "8",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 186.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "G",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 192.225,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "1",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 239.475,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 245.475,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 251.475,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 280.575,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 286.575,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 292.575,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 326.17502,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 332.17502,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 338.17502,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 344.17502,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 350.17502,
+         "y": 690.405,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "无",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 413.92502,
+         "y": 690.405,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "英",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 41.004,
+         "y": 716.061,
+         "width": 11.999996,
+         "height": 6.258
+      },
+      {
+         "str": "伟",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 53.052002,
+         "y": 716.061,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "达",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 65.1,
+         "y": 716.061,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "显",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 77.147995,
+         "y": 716.061,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "卡",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 59.076,
+         "y": 731.623,
+         "width": 12.000004,
+         "height": 6.258
+      },
+      {
+         "str": "N",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 111.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "V",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 117.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "I",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 123.225,
+         "y": 716.061,
+         "width": 6.0000076,
+         "height": 6.138
+      },
+      {
+         "str": "D",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 129.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "I",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 135.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "A",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 141.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 147.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "G",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 153.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "e",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 159.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "F",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 165.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "o",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 171.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "r",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 177.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "c",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 183.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "e",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 189.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 195.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "R",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 201.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "T",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 207.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "X",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 213.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": " ",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 219.225,
+         "y": 716.061,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 147.225,
+         "y": 731.623,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 153.225,
+         "y": 731.623,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "8",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 159.225,
+         "y": 731.623,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 165.225,
+         "y": 731.623,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "T",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 171.225,
+         "y": 731.623,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "i",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 177.225,
+         "y": 731.623,
+         "width": 6.0,
+         "height": 6.138
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 242.475,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 248.475,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 277.575,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 283.575,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 289.575,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 295.575,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "1",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 323.17502,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 329.17502,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 335.17502,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "9",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 341.17502,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "8",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 347.17502,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 353.17502,
+         "y": 723.842,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "无",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 413.92502,
+         "y": 723.842,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "三",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 41.004,
+         "y": 749.498,
+         "width": 11.999996,
+         "height": 6.258
+      },
+      {
+         "str": "星",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 53.052002,
+         "y": 749.498,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "固",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 65.1,
+         "y": 749.498,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "态",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 77.147995,
+         "y": 749.498,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "硬",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 53.052002,
+         "y": 765.06,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "盘",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 65.1,
+         "y": 765.06,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 150.225,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "5",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 156.225,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 162.225,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "G",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 168.225,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "B",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 174.225,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 239.475,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 245.475,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 251.475,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "4",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 280.575,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 286.575,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 292.575,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "8",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 326.17502,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 332.17502,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 338.17502,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 344.17502,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 350.17502,
+         "y": 757.279,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "无",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 413.92502,
+         "y": 757.279,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "包",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 53.052002,
+         "y": 786.029,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "装",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 65.1,
+         "y": 786.029,
+         "width": 12.0,
+         "height": 6.258
+      },
+      {
+         "str": "-",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 162.225,
+         "y": 786.029,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "1",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 236.475,
+         "y": 786.029,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 242.475,
+         "y": 786.029,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "2",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 248.475,
+         "y": 786.029,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "0",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 254.475,
+         "y": 786.029,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "-",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 286.575,
+         "y": 786.029,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "-",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 338.17502,
+         "y": 786.029,
+         "width": 6.0,
+         "height": 6.258
+      },
+      {
+         "str": "无",
+         "rotation": 0,
+         "scale": 12.0,
+         "x": 413.92502,
+         "y": 786.029,
+         "width": 12.0,
+         "height": 6.258
+      }
+   ],
+   "info": {
+      "scale": 1,
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "height": 841.9,
+      "width": 595.3,
+      "page": 1
+   }
+}
