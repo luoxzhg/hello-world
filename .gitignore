@@ -1,3 +1,4 @@
+**/target
 **/node_modules
 
 # compiled output
@@ -37,3 +38,6 @@ lerna-debug.log*
 
 # rust
 **/target
+rust-example/target/.rustc_info.json
+rust-example/target/debug/rust-example
+rust-example/target/debug/rust-example.d
