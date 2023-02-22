@@ -1,37 +1,56 @@
-
 import base64
-import fitz
+from concurrent.futures import ProcessPoolExecutor
 from hashlib import sha1
-from os import mkdir, path
+from os import cpu_count, mkdir, path
+from time import sleep
 from traceback import print_exc
 from uuid import uuid4
 
-from flask import Flask, request, send_file
+import fitz
+from flask import Flask, request
 
-from converter import submitTask
 app = Flask(__name__)
 
 if not path.exists('./files'):
    mkdir('./files')
 
+def poolInitializer():
+   print('process worker initialize')
+   global app
+   app = 'Word.Application'
+
+pool = ProcessPoolExecutor(cpu_count(), initializer=poolInitializer)
+
+def convert2Pdf(inpath, outpath):
+   print('Do Something Start')
+   print(f'use worker global app: {app}')
+   print(f'inpath: {inpath}')
+   print(f'outpath: {outpath}')
+   sleep(10)
+   print('Do Something End')
+   return outpath
+
+
 @app.route('/to-pdf', methods=['POST'])
 def ConvertToPDF():
    file = request.files['file']
-
-   savePath = path.abspath('./files/' + str(uuid4()) + path.splitext(file.filename)[1])
+   savePath = './files/' + str(uuid4()) + path.splitext(file.filename)[1]
    file.save(savePath)
 
    file.seek(0)
    hash = sha1(file.read()).digest().hex()
-   pdfPath = path.abspath('./files/' + hash + '.pdf')
+   ft = pool.submit(convert2Pdf, savePath, './files/' + hash + '.pdf')
 
    try:
-      outpath = submitTask(savePath, pdfPath)
-      return send_file(outpath)
+      outpath = ft.result(60)
+      outpath
    except:
       print_exc()
-      raise
-      
+      outpath = ''
+
+   return outpath
+
+
 @app.route('/to-images', methods=['POST'])
 def ConvertToImages():
    file = request.files['file']
@@ -45,6 +64,5 @@ def ConvertToImages():
 
    return images
 
-
 if __name__ == '__main__':
-   app.run(host='0.0.0.0', debug=True)
+   app.run(host='0.0.0.0')
