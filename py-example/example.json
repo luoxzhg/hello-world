@@ -1,0 +1,3717 @@
+{
+   "code": 0,
+   "isVip": true,
+   "similarity": 0.8638373121131742,
+   "addedCount": 4,
+   "changedCount": 4,
+   "removedCount": 0,
+   "differences": [
+      {
+         "status": "changed",
+         "origin": {
+            "value": "3",
+            "position": [
+               {
+                  "pageNum": 1,
+                  "char": "3",
+                  "x": 545.5,
+                  "y": 67.5,
+                  "width": 12.5,
+                  "height": 11
+               }
+            ]
+         },
+         "target": {
+            "value": "2",
+            "position": [
+               {
+                  "pageNum": 1,
+                  "char": "2",
+                  "x": 555.5,
+                  "y": 79.5,
+                  "width": 6,
+                  "height": 10
+               }
+            ]
+         }
+      },
+      {
+         "status": "added",
+         "origin": {
+            "value": "",
+            "position": [
+               {
+                  "pageNum": 1,
+                  "char": "0",
+                  "x": 266,
+                  "y": 268.5,
+                  "width": 5.5,
+                  "height": 11.5
+               }
+            ]
+         },
+         "target": {
+            "value": "1",
+            "position": [
+               {
+                  "pageNum": 1,
+                  "char": "1",
+                  "x": 270,
+                  "y": 279,
+                  "width": 6.5,
+                  "height": 13
+               }
+            ]
+         }
+      },
+      {
+         "status": "added",
+         "origin": {
+            "value": "",
+            "position": [
+               {
+                  "pageNum": 1,
+                  "char": "印",
+                  "x": 414.5,
+                  "y": 779.5,
+                  "width": 9,
+                  "height": 10
+               }
+            ]
+         },
+         "target": {
+            "value": "COPYRIGHT OF THIS DOCUMENT AND BUSINESS SECRETS CONTAINED HEREIN ARE PROPERTY\nOF OUR COMPANY.NO DUPLICATION IS ALLOWED WITHOUT PRIOR APPROVAL",
+            "position": [
+               {
+                  "pageNum": 1,
+                  "char": "C",
+                  "x": 110.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 115.5,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "P",
+                  "x": 120,
+                  "y": 803,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "Y",
+                  "x": 126.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 131.5,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 136,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "G",
+                  "x": 141,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "H",
+                  "x": 145.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 150.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 154.5,
+                  "y": 803,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 159,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "F",
+                  "x": 162.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 166.5,
+                  "y": 803,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 170.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "H",
+                  "x": 176,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 180,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "S",
+                  "x": 183,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 187,
+                  "y": 803,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "D",
+                  "x": 190,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 195,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "C",
+                  "x": 201.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "U",
+                  "x": 207.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "M",
+                  "x": 214,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 219,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 225,
+                  "y": 803,
+                  "width": 4.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 230.5,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 234,
+                  "y": 803,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "A",
+                  "x": 237.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 242.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "D",
+                  "x": 247.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 251.5,
+                  "y": 803,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "B",
+                  "x": 257,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "U",
+                  "x": 262,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "S",
+                  "x": 267,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 271,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 275,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 280,
+                  "y": 803,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "S",
+                  "x": 284.5,
+                  "y": 803,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "S",
+                  "x": 288.5,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 292.5,
+                  "y": 803.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "S",
+                  "x": 296.5,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 299.5,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "C",
+                  "x": 305,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 310,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 315,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 319.5,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "S",
+                  "x": 324,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 328,
+                  "y": 803.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "C",
+                  "x": 331.5,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 337,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 343,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 348,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "A",
+                  "x": 353,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 357,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 361,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 366,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "D",
+                  "x": 370.5,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 374.5,
+                  "y": 803.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "H",
+                  "x": 379.5,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 383,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 389.5,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 394.5,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 399,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 403.5,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 407,
+                  "y": 803.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "A",
+                  "x": 411.5,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 415,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 420,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 423.5,
+                  "y": 803.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "P",
+                  "x": 427.5,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 432.5,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 439,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "P",
+                  "x": 443,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 447,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 452,
+                  "y": 803.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 458,
+                  "y": 803.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "Y",
+                  "x": 463,
+                  "y": 803.5,
+                  "width": 5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 1,
+                  "char": "\n",
+                  "x": 141,
+                  "y": 812.5,
+                  "width": 1,
+                  "height": 3.75
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 141.5,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "F",
+                  "x": 146.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 150.5,
+                  "y": 812.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 154,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "U",
+                  "x": 160,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 164.5,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 168,
+                  "y": 812.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "C",
+                  "x": 172.5,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 178.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "M",
+                  "x": 184.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "P",
+                  "x": 190,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "A",
+                  "x": 194.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 200.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "Y",
+                  "x": 206,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": ".",
+                  "x": 210,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 214,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 219,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 223,
+                  "y": 812.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "D",
+                  "x": 226.5,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "U",
+                  "x": 232,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "P",
+                  "x": 236.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "L",
+                  "x": 241.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 246,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "C",
+                  "x": 250,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "A",
+                  "x": 254.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 260,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 263.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 267,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "N",
+                  "x": 274.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 278.5,
+                  "y": 812.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 281,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "S",
+                  "x": 283.5,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 287,
+                  "y": 812.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "A",
+                  "x": 290,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "L",
+                  "x": 294,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "L",
+                  "x": 299.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 304.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "W",
+                  "x": 312.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "E",
+                  "x": 318,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "D",
+                  "x": 322,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 326,
+                  "y": 812.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "W",
+                  "x": 332.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 337,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 341,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "H",
+                  "x": 345.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 351,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "U",
+                  "x": 357.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "T",
+                  "x": 362,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 365.5,
+                  "y": 812.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "P",
+                  "x": 369,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 373.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "I",
+                  "x": 378,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 381.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 386.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": " ",
+                  "x": 390.5,
+                  "y": 812.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 1,
+                  "char": "A",
+                  "x": 395,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "P",
+                  "x": 399,
+                  "y": 812.5,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "P",
+                  "x": 403.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "R",
+                  "x": 409,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "O",
+                  "x": 414,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "V",
+                  "x": 420.5,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "A",
+                  "x": 425,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 1,
+                  "char": "L",
+                  "x": 429,
+                  "y": 812.5,
+                  "width": 4,
+                  "height": 7.5
+               }
+            ]
+         }
+      },
+      {
+         "status": "changed",
+         "origin": {
+            "value": "3",
+            "position": [
+               {
+                  "pageNum": 2,
+                  "char": "3",
+                  "x": 545.5,
+                  "y": 67.5,
+                  "width": 12.5,
+                  "height": 11
+               }
+            ]
+         },
+         "target": {
+            "value": "2",
+            "position": [
+               {
+                  "pageNum": 2,
+                  "char": "2",
+                  "x": 539.5,
+                  "y": 73.5,
+                  "width": 11,
+                  "height": 10.5
+               }
+            ]
+         }
+      },
+      {
+         "status": "added",
+         "origin": {
+            "value": "",
+            "position": [
+               {
+                  "pageNum": 2,
+                  "char": "。",
+                  "x": 162.5,
+                  "y": 623,
+                  "width": 4.5,
+                  "height": 11.5
+               }
+            ]
+         },
+         "target": {
+            "value": "视",
+            "position": [
+               {
+                  "pageNum": 2,
+                  "char": "视",
+                  "x": 149.5,
+                  "y": 588,
+                  "width": 10.5,
+                  "height": 11.5
+               }
+            ]
+         }
+      },
+      {
+         "status": "added",
+         "origin": {
+            "value": "",
+            "position": [
+               {
+                  "pageNum": 2,
+                  "char": "。",
+                  "x": 103,
+                  "y": 758.5,
+                  "width": 5,
+                  "height": 13.5
+               }
+            ]
+         },
+         "target": {
+            "value": "8.期望所有供应商及外包商能具备与我们相同的社会与环境绩效",
+            "position": [
+               {
+                  "pageNum": 2,
+                  "char": "8",
+                  "x": 42,
+                  "y": 744,
+                  "width": 6,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": ".",
+                  "x": 48.5,
+                  "y": 744,
+                  "width": 5.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "期",
+                  "x": 56,
+                  "y": 744,
+                  "width": 9,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "望",
+                  "x": 66.5,
+                  "y": 744,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "所",
+                  "x": 77.5,
+                  "y": 744,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "有",
+                  "x": 90,
+                  "y": 744,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "供",
+                  "x": 101,
+                  "y": 744,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "应",
+                  "x": 113.5,
+                  "y": 744,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "商",
+                  "x": 124.5,
+                  "y": 744,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "及",
+                  "x": 137,
+                  "y": 744,
+                  "width": 10.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "外",
+                  "x": 149,
+                  "y": 744,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "包",
+                  "x": 161.5,
+                  "y": 744,
+                  "width": 8,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "商",
+                  "x": 171,
+                  "y": 744,
+                  "width": 12.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "能",
+                  "x": 185,
+                  "y": 744,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "具",
+                  "x": 196,
+                  "y": 744,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "备",
+                  "x": 208.5,
+                  "y": 744,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "与",
+                  "x": 219.5,
+                  "y": 744,
+                  "width": 12.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "我",
+                  "x": 233.5,
+                  "y": 744,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "们",
+                  "x": 244,
+                  "y": 744,
+                  "width": 13,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "相",
+                  "x": 258.5,
+                  "y": 744,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "同",
+                  "x": 269.5,
+                  "y": 744,
+                  "width": 10.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "的",
+                  "x": 281.5,
+                  "y": 744,
+                  "width": 10,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "社",
+                  "x": 292.5,
+                  "y": 744,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "会",
+                  "x": 305,
+                  "y": 744,
+                  "width": 8,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "与",
+                  "x": 314.5,
+                  "y": 744,
+                  "width": 12.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "环",
+                  "x": 328.5,
+                  "y": 744,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "境",
+                  "x": 341,
+                  "y": 744,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "绩",
+                  "x": 353.5,
+                  "y": 744,
+                  "width": 9,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "效",
+                  "x": 364,
+                  "y": 744,
+                  "width": 11.5,
+                  "height": 11.5
+               }
+            ]
+         }
+      },
+      {
+         "status": "changed",
+         "origin": {
+            "value": "文件编号：ZYPUCWI021 Risuntek Inc文件名称：社会环境责任宣告书广东朝阳电子科技股份有限公司版本/版次:B/0Page3of3 8.期望所有供应商及外包商能具备与我们相同的社会与环境绩效。\n本文件之著作权及业务秘密属于本公司，非经准许不得翻印",
+            "position": [
+               {
+                  "pageNum": 3,
+                  "char": "文",
+                  "x": 404.5,
+                  "y": 41,
+                  "width": 7,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "件",
+                  "x": 412.5,
+                  "y": 41,
+                  "width": 12,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "编",
+                  "x": 426,
+                  "y": 41,
+                  "width": 9,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "号",
+                  "x": 436,
+                  "y": 41,
+                  "width": 9.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "：",
+                  "x": 448.5,
+                  "y": 41,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "Z",
+                  "x": 463,
+                  "y": 41,
+                  "width": 6,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "Y",
+                  "x": 470,
+                  "y": 41,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "P",
+                  "x": 484,
+                  "y": 41,
+                  "width": 5.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "U",
+                  "x": 490.5,
+                  "y": 41,
+                  "width": 5.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "C",
+                  "x": 496,
+                  "y": 41,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "W",
+                  "x": 505,
+                  "y": 41,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "I",
+                  "x": 509.5,
+                  "y": 41,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "0",
+                  "x": 518,
+                  "y": 41,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "2",
+                  "x": 522.5,
+                  "y": 41,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "1",
+                  "x": 527.5,
+                  "y": 41,
+                  "width": 4.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": " ",
+                  "x": 210,
+                  "y": 52.5,
+                  "width": 1,
+                  "height": 5.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "R",
+                  "x": 210,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "i",
+                  "x": 216.5,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "s",
+                  "x": 223.5,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "u",
+                  "x": 230,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "n",
+                  "x": 235.5,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "t",
+                  "x": 241.5,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "e",
+                  "x": 247.5,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "k",
+                  "x": 253.5,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": " ",
+                  "x": 259,
+                  "y": 52.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 3,
+                  "char": "I",
+                  "x": 265.5,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "n",
+                  "x": 271.5,
+                  "y": 52.5,
+                  "width": 5.5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "c",
+                  "x": 278,
+                  "y": 52.5,
+                  "width": 5,
+                  "height": 10.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "文",
+                  "x": 403.5,
+                  "y": 53.5,
+                  "width": 7,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "件",
+                  "x": 412,
+                  "y": 53.5,
+                  "width": 12,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "名",
+                  "x": 425.5,
+                  "y": 53.5,
+                  "width": 8.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "称",
+                  "x": 435.5,
+                  "y": 53.5,
+                  "width": 10.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "：",
+                  "x": 449.5,
+                  "y": 53.5,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "社",
+                  "x": 466,
+                  "y": 53.5,
+                  "width": 8,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "会",
+                  "x": 475.5,
+                  "y": 53.5,
+                  "width": 6,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "环",
+                  "x": 483,
+                  "y": 53.5,
+                  "width": 9,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "境",
+                  "x": 493.5,
+                  "y": 53.5,
+                  "width": 7.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "责",
+                  "x": 502,
+                  "y": 53.5,
+                  "width": 7.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "任",
+                  "x": 511,
+                  "y": 53.5,
+                  "width": 9,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "宣",
+                  "x": 521.5,
+                  "y": 53.5,
+                  "width": 7.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "告",
+                  "x": 530.5,
+                  "y": 53.5,
+                  "width": 7,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "书",
+                  "x": 539,
+                  "y": 53.5,
+                  "width": 10,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "广",
+                  "x": 115,
+                  "y": 67.5,
+                  "width": 9,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "东",
+                  "x": 125.5,
+                  "y": 67.5,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "朝",
+                  "x": 138,
+                  "y": 67.5,
+                  "width": 11.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "阳",
+                  "x": 151,
+                  "y": 67.5,
+                  "width": 10.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "电",
+                  "x": 163,
+                  "y": 67.5,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "子",
+                  "x": 174,
+                  "y": 67.5,
+                  "width": 11.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "科",
+                  "x": 187,
+                  "y": 67.5,
+                  "width": 10.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "技",
+                  "x": 199,
+                  "y": 67.5,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "股",
+                  "x": 211.5,
+                  "y": 67.5,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "份",
+                  "x": 222.5,
+                  "y": 67.5,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "有",
+                  "x": 235,
+                  "y": 67.5,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "限",
+                  "x": 246,
+                  "y": 67.5,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "公",
+                  "x": 258.5,
+                  "y": 67.5,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "司",
+                  "x": 269.5,
+                  "y": 67.5,
+                  "width": 12.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "版",
+                  "x": 403.5,
+                  "y": 67.5,
+                  "width": 7.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "本",
+                  "x": 412.5,
+                  "y": 67.5,
+                  "width": 9.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "/",
+                  "x": 423.5,
+                  "y": 67.5,
+                  "width": 6,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "版",
+                  "x": 431,
+                  "y": 67.5,
+                  "width": 8,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "次",
+                  "x": 440.5,
+                  "y": 67.5,
+                  "width": 9.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": ":",
+                  "x": 451.5,
+                  "y": 67.5,
+                  "width": 6,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "B",
+                  "x": 458.5,
+                  "y": 67.5,
+                  "width": 14.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "/",
+                  "x": 474,
+                  "y": 67.5,
+                  "width": 5.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "0",
+                  "x": 480,
+                  "y": 67.5,
+                  "width": 5.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "P",
+                  "x": 486.5,
+                  "y": 67.5,
+                  "width": 14,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "a",
+                  "x": 502,
+                  "y": 67.5,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "g",
+                  "x": 507.5,
+                  "y": 67.5,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "e",
+                  "x": 512.5,
+                  "y": 67.5,
+                  "width": 5.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "3",
+                  "x": 519.5,
+                  "y": 67.5,
+                  "width": 9.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "o",
+                  "x": 530,
+                  "y": 67.5,
+                  "width": 9.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "f",
+                  "x": 540,
+                  "y": 67.5,
+                  "width": 5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": "3",
+                  "x": 545.5,
+                  "y": 67.5,
+                  "width": 12.5,
+                  "height": 11
+               },
+               {
+                  "pageNum": 3,
+                  "char": " ",
+                  "x": 49,
+                  "y": 107,
+                  "width": 1,
+                  "height": 5.75
+               },
+               {
+                  "pageNum": 3,
+                  "char": "8",
+                  "x": 49,
+                  "y": 107,
+                  "width": 6,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": ".",
+                  "x": 55.5,
+                  "y": 107,
+                  "width": 5.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "期",
+                  "x": 63,
+                  "y": 107,
+                  "width": 9,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "望",
+                  "x": 73.5,
+                  "y": 107,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "所",
+                  "x": 84.5,
+                  "y": 107,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "有",
+                  "x": 97,
+                  "y": 107,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "供",
+                  "x": 108,
+                  "y": 107,
+                  "width": 12.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "应",
+                  "x": 122,
+                  "y": 107,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "商",
+                  "x": 133,
+                  "y": 107,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "及",
+                  "x": 145.5,
+                  "y": 107,
+                  "width": 9,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "外",
+                  "x": 156,
+                  "y": 107,
+                  "width": 11.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "包",
+                  "x": 169,
+                  "y": 107,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "商",
+                  "x": 180,
+                  "y": 107,
+                  "width": 10.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "能",
+                  "x": 192,
+                  "y": 107,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "具",
+                  "x": 204.5,
+                  "y": 107,
+                  "width": 11.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "备",
+                  "x": 217.5,
+                  "y": 107,
+                  "width": 9,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "与",
+                  "x": 228,
+                  "y": 107,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "我",
+                  "x": 240.5,
+                  "y": 107,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "们",
+                  "x": 251.5,
+                  "y": 107,
+                  "width": 12.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "相",
+                  "x": 265.5,
+                  "y": 107,
+                  "width": 9.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "同",
+                  "x": 276.5,
+                  "y": 107,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "的",
+                  "x": 289,
+                  "y": 107,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "社",
+                  "x": 301.5,
+                  "y": 107,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "会",
+                  "x": 314,
+                  "y": 107,
+                  "width": 8,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "与",
+                  "x": 323.5,
+                  "y": 107,
+                  "width": 12.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "环",
+                  "x": 337.5,
+                  "y": 107,
+                  "width": 9,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "境",
+                  "x": 348,
+                  "y": 107,
+                  "width": 11,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "绩",
+                  "x": 360.5,
+                  "y": 107,
+                  "width": 11.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "效",
+                  "x": 373.5,
+                  "y": 107,
+                  "width": 10.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "。",
+                  "x": 386,
+                  "y": 107,
+                  "width": 3.5,
+                  "height": 11.5
+               },
+               {
+                  "pageNum": 3,
+                  "char": "\n",
+                  "x": 180,
+                  "y": 779.5,
+                  "width": 1,
+                  "height": 5.25
+               },
+               {
+                  "pageNum": 3,
+                  "char": "本",
+                  "x": 180,
+                  "y": 779.5,
+                  "width": 8,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "文",
+                  "x": 189,
+                  "y": 779.5,
+                  "width": 7.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "件",
+                  "x": 197.5,
+                  "y": 779.5,
+                  "width": 8.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "之",
+                  "x": 207.5,
+                  "y": 779.5,
+                  "width": 5.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "著",
+                  "x": 214,
+                  "y": 779.5,
+                  "width": 10,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "作",
+                  "x": 225.5,
+                  "y": 779.5,
+                  "width": 7,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "权",
+                  "x": 233.5,
+                  "y": 779.5,
+                  "width": 8.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "及",
+                  "x": 243.5,
+                  "y": 779.5,
+                  "width": 7,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "业",
+                  "x": 252,
+                  "y": 779.5,
+                  "width": 8,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "务",
+                  "x": 261.5,
+                  "y": 779.5,
+                  "width": 7,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "秘",
+                  "x": 270,
+                  "y": 779.5,
+                  "width": 8,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "密",
+                  "x": 279.5,
+                  "y": 779.5,
+                  "width": 7,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "属",
+                  "x": 287.5,
+                  "y": 779.5,
+                  "width": 7.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "于",
+                  "x": 296.5,
+                  "y": 779.5,
+                  "width": 8,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "本",
+                  "x": 306,
+                  "y": 779.5,
+                  "width": 6.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "公",
+                  "x": 314,
+                  "y": 779.5,
+                  "width": 8.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "司",
+                  "x": 324,
+                  "y": 779.5,
+                  "width": 7,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "，",
+                  "x": 334,
+                  "y": 779.5,
+                  "width": 5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "非",
+                  "x": 342.5,
+                  "y": 779.5,
+                  "width": 8,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "经",
+                  "x": 351.5,
+                  "y": 779.5,
+                  "width": 7,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "准",
+                  "x": 360,
+                  "y": 779.5,
+                  "width": 8.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "许",
+                  "x": 370,
+                  "y": 779.5,
+                  "width": 6.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "不",
+                  "x": 378,
+                  "y": 779.5,
+                  "width": 8,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "得",
+                  "x": 387.5,
+                  "y": 779.5,
+                  "width": 7.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "翻",
+                  "x": 396,
+                  "y": 779.5,
+                  "width": 8.5,
+                  "height": 10
+               },
+               {
+                  "pageNum": 3,
+                  "char": "印",
+                  "x": 405.5,
+                  "y": 779.5,
+                  "width": 9,
+                  "height": 10
+               }
+            ]
+         },
+         "target": {
+            "value": "COPYRIGHT OF THIS DOCUMENT AND BUSINESS SECRETS CONTAINED HEREIN ARE PROPERTY\nOF OUR COMPANY.NO DUPLICATION IS ALLOWED WITHOUT PRIOR APPROVAL",
+            "position": [
+               {
+                  "pageNum": 2,
+                  "char": "C",
+                  "x": 110,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 116,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "P",
+                  "x": 121,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "Y",
+                  "x": 127,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 132,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 136,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "G",
+                  "x": 140,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "H",
+                  "x": 146,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 151,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 155,
+                  "y": 796,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 158.5,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "F",
+                  "x": 162.5,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 166.5,
+                  "y": 796,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 171,
+                  "y": 796,
+                  "width": 3.5,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "H",
+                  "x": 175,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 179.5,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "S",
+                  "x": 183.5,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 187.5,
+                  "y": 796,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "D",
+                  "x": 190.5,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 195.5,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "C",
+                  "x": 200.5,
+                  "y": 796,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "U",
+                  "x": 206.5,
+                  "y": 796,
+                  "width": 4.5,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "M",
+                  "x": 213,
+                  "y": 796.5,
+                  "width": 4.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 219.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 225.5,
+                  "y": 796.5,
+                  "width": 4.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 230,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 234,
+                  "y": 796.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "A",
+                  "x": 238,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 243.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "D",
+                  "x": 248.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 252.5,
+                  "y": 796.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "B",
+                  "x": 257,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "U",
+                  "x": 261,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "S",
+                  "x": 266,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 270.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 275.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 279.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "S",
+                  "x": 283.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "S",
+                  "x": 288.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 292.5,
+                  "y": 796.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "S",
+                  "x": 295.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 299.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "C",
+                  "x": 304,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 309,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 313.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 319.5,
+                  "y": 796.5,
+                  "width": 4.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "S",
+                  "x": 324,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 328,
+                  "y": 796.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "C",
+                  "x": 332,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 336,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 344,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 348,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "A",
+                  "x": 352,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 356.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 361.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 366,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "D",
+                  "x": 371,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 375,
+                  "y": 796.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "H",
+                  "x": 380,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 384,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 388.5,
+                  "y": 796.5,
+                  "width": 4,
+                  "height": 8.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 394.5,
+                  "y": 797,
+                  "width": 4.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 399,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 403,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 407,
+                  "y": 797,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "A",
+                  "x": 411.5,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 415.5,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 420.5,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 424.5,
+                  "y": 797,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "P",
+                  "x": 428,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 431.5,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 438,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "P",
+                  "x": 443,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 447.5,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 452.5,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 457,
+                  "y": 797,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "Y",
+                  "x": 463,
+                  "y": 797,
+                  "width": 5.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "\n",
+                  "x": 140,
+                  "y": 805.5,
+                  "width": 1,
+                  "height": 4.25
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 142,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "F",
+                  "x": 146.5,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 150.5,
+                  "y": 805.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 154.5,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "U",
+                  "x": 160.5,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 165,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 169,
+                  "y": 805.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "C",
+                  "x": 173,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 177.5,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "M",
+                  "x": 185.5,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "P",
+                  "x": 190,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "A",
+                  "x": 194.5,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 201,
+                  "y": 805.5,
+                  "width": 4.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "Y",
+                  "x": 206,
+                  "y": 805.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": ".",
+                  "x": 209.5,
+                  "y": 805.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 213.5,
+                  "y": 805.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 218.5,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 222.5,
+                  "y": 805.5,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "D",
+                  "x": 226.5,
+                  "y": 805.5,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "U",
+                  "x": 233,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "P",
+                  "x": 237.5,
+                  "y": 805.5,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "L",
+                  "x": 241.5,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 245.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "C",
+                  "x": 249,
+                  "y": 806,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "A",
+                  "x": 255.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 260,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 263.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 268,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "N",
+                  "x": 273.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 277.5,
+                  "y": 806,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 280.5,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": "S",
+                  "x": 283.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 7.5
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 287.5,
+                  "y": 806,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "A",
+                  "x": 290.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "L",
+                  "x": 294,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "L",
+                  "x": 299,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 304,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "W",
+                  "x": 313.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "E",
+                  "x": 318,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "D",
+                  "x": 322.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 326.5,
+                  "y": 806,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "W",
+                  "x": 333,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 337,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 340.5,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "H",
+                  "x": 345,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 351.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "U",
+                  "x": 357,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "T",
+                  "x": 362,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 366,
+                  "y": 806,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "P",
+                  "x": 370,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 374,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "I",
+                  "x": 378.5,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 382.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 387,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": " ",
+                  "x": 391,
+                  "y": 806,
+                  "width": 0.5,
+                  "height": null
+               },
+               {
+                  "pageNum": 2,
+                  "char": "A",
+                  "x": 395.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "P",
+                  "x": 399.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "P",
+                  "x": 403.5,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "R",
+                  "x": 408,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "O",
+                  "x": 415,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "V",
+                  "x": 420,
+                  "y": 806,
+                  "width": 4,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "A",
+                  "x": 425,
+                  "y": 806,
+                  "width": 4.5,
+                  "height": 8
+               },
+               {
+                  "pageNum": 2,
+                  "char": "L",
+                  "x": 430,
+                  "y": 806,
+                  "width": 3.5,
+                  "height": 8
+               }
+            ]
+         }
+      }
+   ]
+}
