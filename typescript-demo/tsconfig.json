@@ -1,0 +1,10 @@
+{
+  "include": [
+    "./**/*.{ts, tsx}"
+  ],
+  "references": [
+    {"path": "packages/a"},
+    {"path": "packages/b"}
+  ],
+  "extends": "./tsconfig.options.json"
+}

@@ -1,0 +1,3 @@
+[submodule "lerna-demo"]
+	path = lerna-demo
+	url = git@github.com:lerna/getting-started-example.git
