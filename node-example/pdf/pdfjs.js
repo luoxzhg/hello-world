@@ -2,7 +2,7 @@ const pdfjs = require('pdfjs-dist/legacy/build/pdf');
 const canvasLib = require('canvas');
 
 const { OCR_SERVER } = require('../config')
-const { ocrSvcAsync } = require('./ocr');
+const { ocrSvcAsync } = require('../ocrr');
 
 /**
  * 从 PDF 中获取文本框
