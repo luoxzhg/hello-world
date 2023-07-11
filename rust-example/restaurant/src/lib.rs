@@ -1,3 +1,17 @@
+use back_of_house::hosting;
+use back_of_house::{Breakfast, Appetizer};
+
+pub fn eat_at_restaurant() {
+   // hosting::seat_at_table();
+   let mut meal = Breakfast::summer("Rye");
+   meal.toast = String::from("Wheat");
+   println!("I would like {} toast please", meal.toast);
+   let order1 = Appetizer::Soup;
+   let order2 = Appetizer::Salad;
+}
+
+fn deliver_order() {}
+
 mod front_of_house {
    pub(crate) mod hosting {
       pub(crate) fn add_to_waitlist() {}
@@ -14,20 +28,8 @@ mod front_of_house {
    }
 }
 
-use front_of_house::hosting;
-use back_of_house::{Breakfast, Appetizer};
-pub fn eat_at_restaurant() {
-   // hosting::seat_at_table();
-   let mut meal = Breakfast::summer("Rye");
-   meal.toast = String::from("Wheat");
-   println!("I would like {} toast please", meal.toast);
-   let order1 = Appetizer::Soup;
-   let order2 = Appetizer::Salad;
-}
-
-fn deliver_order() {}
-
 mod back_of_house {
+   use front_of_house::hosting;
    fn fix_incorrect_order() {
       cook_oerder();
       super::deliver_order();

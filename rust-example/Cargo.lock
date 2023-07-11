@@ -3,16 +3,53 @@
 version = 3
 
 [[package]]
+name = "add_one"
+version = "0.1.0"
+dependencies = [
+ "rand",
+]
+
+[[package]]
+name = "adder"
+version = "0.1.0"
+dependencies = [
+ "add_one",
+ "rand",
+]
+
+[[package]]
+name = "blog"
+version = "0.1.0"
+
+[[package]]
 name = "cfg-if"
 version = "1.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 
 [[package]]
-name = "getrandom"
-version = "0.2.7"
+name = "diff"
+version = "0.1.13"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4eb1a864a501629691edf6c15a593b7a51eebaa1e8468e9ddc623de7c9b58ec6"
+checksum = "56254986775e3233ffa9c4d7d3faaf6d36a2c09d30b20687e9f88bc8bafc16c8"
+
+[[package]]
+name = "example"
+version = "0.1.0"
+dependencies = [
+ "diff",
+ "levenshtein-diff",
+ "liff",
+ "rand",
+ "similar",
+ "unicode-segmentation",
+]
+
+[[package]]
+name = "getrandom"
+version = "0.2.10"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "be4136b2a15dd319360be1c07d9933517ccf0be8f16bf62a3bee4f0d618df427"
 dependencies = [
  "cfg-if",
  "libc",
@@ -20,16 +57,39 @@ dependencies = [
 ]
 
 [[package]]
-name = "libc"
-version = "0.2.135"
+name = "gui"
+version = "0.1.0"
+
+[[package]]
+name = "levenshtein-diff"
+version = "0.2.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "68783febc7782c6c5cb401fbda4de5a9898be1762314da0bb2c10ced61f18b0c"
+checksum = "fbf2bb5dd04110609b666e285420240e142f3a76df086e39ab1f50c4cba435cf"
+
+[[package]]
+name = "libc"
+version = "0.2.147"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b4668fb0ea861c1df094127ac5f1da3409a82116a4ba74fca2e58ef927159bb3"
+
+[[package]]
+name = "liff"
+version = "0.1.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "22c175887db527ce0bec7a3d6f7ebad9a70e1a9d2fce304109f8f658b1eab46f"
+dependencies = [
+ "snap",
+]
+
+[[package]]
+name = "minigrep"
+version = "0.1.0"
 
 [[package]]
 name = "ppv-lite86"
-version = "0.2.16"
+version = "0.2.17"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "eb9f9e6e233e5c4a35559a617bf40a4ec447db2e84c20b55a6f83167b7e57872"
+checksum = "5b40af805b3121feab8a3c29f04d8ad262fa8e0561883e7653e024ae4479e6de"
 
 [[package]]
 name = "rand"
@@ -62,11 +122,26 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-example"
+name = "restaurant"
 version = "0.1.0"
-dependencies = [
- "rand",
-]
+
+[[package]]
+name = "similar"
+version = "2.2.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "420acb44afdae038210c99e69aae24109f32f15500aa708e81d46c9f29d55fcf"
+
+[[package]]
+name = "snap"
+version = "1.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5e9f0ab6ef7eb7353d9119c170a436d1bf248eea575ac42d19d12f4e34130831"
+
+[[package]]
+name = "unicode-segmentation"
+version = "1.10.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1dd624098567895118886609431a7c3b8f516e41d30e0643f03d94592a147e36"
 
 [[package]]
 name = "wasi"
