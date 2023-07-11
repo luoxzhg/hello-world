@@ -2,23 +2,24 @@ package main
 
 import (
 	"fmt"
-	"log"
-
-	"example.com/greetings"
 )
 
 func main() {
-	log.SetPrefix("greetings: ")
-	log.SetFlags(0)
-
-	names := []string{"Gladys", "Samantha", "Darrin"}
-	fmt.Println(len(names))
-	fmt.Println(cap(names))
-	names = names[:3]
-	messages, err := greetings.Hellos(names)
-	if err != nil {
-		log.Fatal(err)
+	arr := [10]int{
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
 	}
-
-	fmt.Println(messages)
+	s := arr[9:]
+	fmt.Printf("len %v, cap %v", len(s), cap(s))
+	s = append(s, 11)
+	fmt.Println(s)
+	fmt.Println(arr)
 }
