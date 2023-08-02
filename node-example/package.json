@@ -15,6 +15,8 @@
     "@types/webpack": "^5.28.0",
     "any-text": "^1.2.0",
     "array-to-image": "^1.0.0",
+    "avvio": "8.2.0",
+    "axios": "1.4.0",
     "bull": "^4.10.1",
     "bullmq": "^1.89.1",
     "canvas": "^2.11.0",
