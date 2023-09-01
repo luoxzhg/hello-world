@@ -4,6 +4,7 @@ const emitter = new EventEmitter();
 
 function listener() {
    console.log('listener started')
+   setImmediate(() => console.log('nested listener started'))
 }
 
 emitter.on('e', listener)
