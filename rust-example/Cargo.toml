@@ -6,8 +6,7 @@ members = [
     'restaurant',
     'minigrep',
     'gui',
-    'blog',
-    'diff-wasm'
+    'blog'
 ]
 
 [workspace.package]
