@@ -1,27 +1,25 @@
 package main
 
-import (
-	"fmt"
-	"log"
+type IBase interface {
+	a(IBase) IBase
+}
 
-	abcd "example.com/greetings"
-)
+type IDrived interface {
+	IBase
+	b(IDrived) IDrived
+}
+
+func f1(a IBase) IBase {
+	println("f1")
+	return a
+}
+
+func f2(a IDrived) IDrived {
+	println("f2")
+	return a
+}
 
 func main() {
-	log.SetPrefix("greetings: ")
-	log.SetFlags(0)
-
-	names := []string{"Gladys", "Samantha", "Darrin"}
-	fmt.Println(len(names))
-	fmt.Println(cap(names))
-	names = names[:3]
-	messages, err := abcd.Hellos(names)
-	if err != nil {
-		log.Fatal(err)
-	}
-	s := arr[9:]
-	fmt.Printf("len %v, cap %v", len(s), cap(s))
-	s = append(s, 11)
-	fmt.Println(s)
-	fmt.Println(arr)
+	var p1 func(IBase) IBase = f1
+	var p2 func(IDrived) IDrived = f2
 }

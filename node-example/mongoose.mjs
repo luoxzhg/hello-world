@@ -9,6 +9,7 @@ import mongoose, { Schema } from "mongoose";
 
    const model = mongoose.model('example', schema);
    // model.create({ name: 'test' });
-   const doc = await model.findOne().lean()//.select(['name']);
+   const doc = await model.find().lean().select(['name', 'defaultField']);
    console.log(doc);
+   await mongoose.disconnect()
 })()
