@@ -71,6 +71,9 @@ importers:
       mongoose:
         specifier: 7.1.1
         version: 7.1.1
+      mongoose-lean-defaults:
+        specifier: 2.2.1
+        version: 2.2.1(mongoose@7.1.1)
       office-text-extractor:
         specifier: ^1.5.0
         version: 1.5.0
@@ -17466,6 +17469,15 @@ packages:
       socks: 2.7.1
     optionalDependencies:
       saslprep: 1.0.3
+    dev: false
+
+  /mongoose-lean-defaults@2.2.1(mongoose@7.1.1):
+    resolution: {integrity: sha512-PsJ47KNm0vdFO9RxA3tsDu4kXBwxgBVsvcLYuvrX7/5WntdIPW1jMJIKq/tFyGAwOuhNPn/8lidVFCAKGZe+cw==}
+    peerDependencies:
+      mongoose: '>=5.11.0'
+    dependencies:
+      mongoose: 7.1.1
+      mpath: 0.9.0
     dev: false
 
   /mongoose@7.1.1:

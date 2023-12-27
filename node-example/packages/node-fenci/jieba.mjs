@@ -1,4 +1,4 @@
-const nodejieba = require('nodejieba');
+import nodejieba from 'nodejieba';
 // var sentence = "我是拖拉机学院手扶拖拉机专业的。不用多久，我就会升职加薪，当上CEO，走上人生巅峰。";
 // var sentence = '甲乙双方根据《中华人民共和国劳动法》和《中华人民共和国劳动合同法》 等法律、法规、规章的规定，经协商一致，自愿订立本劳动合同。';
 var sentence = '本合同自 2017 年 5 月 14 日至 2019 年月 5月 13 日止';
