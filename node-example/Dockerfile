@@ -1,5 +1,8 @@
-FROM node:14-alpine
+FROM node:18-alpine
 
-COPY ./max-size.js /max-size.js
+COPY package.json ./
+RUN npm install
 
-CMD ["node", "max-size.js"]
+COPY wps-convert-demo.js ./
+
+CMD ["node", "wps-convert-demo.js"]

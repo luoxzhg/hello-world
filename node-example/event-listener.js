@@ -7,9 +7,15 @@ function listener() {
    setImmediate(() => console.log('nested listener started'))
 }
 
+emitter.on('newListener', () => {
+   console.log('new listener')
+})
+
+console.log('after newListener')
 emitter.on('e', listener)
 
+// emit 同步发布事件，并且按次序同步执行监听器
 emitter.emit('e')
 console.log('emitted event: e')
 
-// emit 同步发布事件，并且按次序同步执行监听器
+// emitter.emit('error', new Error('whoops!'));
