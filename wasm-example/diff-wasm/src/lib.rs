@@ -1,5 +1,6 @@
 mod utils;
 
+use unicode_segmentation::UnicodeSegmentation;
 use similar::{ChangeTag, TextDiff};
 // use levenshtein_diff::{self, apply_edits, levenshtein_memoization};
 
@@ -40,6 +41,11 @@ use wasm_bindgen::prelude::*;
 //     return apply_edits(source, &result);
 // }
 
+#[wasm_bindgen]
+pub fn unicode_sentences(text: &str) -> String {
+    let result = text.unicode_sentences().collect::<Vec<&str>>();
+    serde_json::to_string(&result).unwrap()
+}
 
 #[wasm_bindgen]
 pub fn diff(old: &str, new: &str) -> String {
@@ -154,5 +160,19 @@ mod tests {
         let new = "AbBCD";
         let result = diff(old, new);
         println!("{}", result);
+    }
+
+    #[test]
+    fn unicode_sentences() {
+        let s = "123.456 《ABCD》 abc. Cdf ef. Mr. Fox jumped. [...] The dog was too lazy. 大小，多少。多多、少少？多多。\n少少";
+        let result = s.unicode_sentences().collect::<Vec<&str>>();
+        println!("{:#?}", result);
+    }
+
+    #[test]
+    fn split_word_bounds() {
+        let s = "123.456 《ABCD》 abc. Cdf ef. Mr. Fox jumped. [...] The dog was too lazy. 大小，多少。多多、少少？多多。\n少少";
+        let result = s.split_word_bounds().collect::<Vec<&str>>();
+        println!("{:#?}", result);
     }
 }
