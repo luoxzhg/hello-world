@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es2020",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "esModuleInterop": true,
+    "paths": {
+      "@app/lib1": [
+        "libs/lib1/src"
+      ],
+      "@app/lib1/*": [
+        "libs/lib1/src/*"
+      ]
+    }
+  },
+  "files": [
+    "example.ts"
+  ]
+}

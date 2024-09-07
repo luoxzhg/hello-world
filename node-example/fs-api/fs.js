@@ -1,9 +1,8 @@
-const fs = require('fs/promises')
-const { constants } = require('fs')
+const fs = require('fs/promises');
+const path = require('path');
+const { constants } = require('fs');
 
-;(async() => {
-    const text = await fs.readFile('./a.txt', 'ascii')
-    const buf = Buffer.from(text, 'base64')
-    // console.log(buf)
-    await fs.writeFile('./a.png', buf)
+(async() => {
+    const buffer = await fs.readFile(path.join(__dirname, 'target.txt'))
+    console.log(buffer)
 })()

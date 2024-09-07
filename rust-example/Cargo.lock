@@ -18,6 +18,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "aggregator"
+version = "0.1.0"
+dependencies = [
+ "rand",
+]
+
+[[package]]
 name = "blog"
 version = "0.1.0"
 
