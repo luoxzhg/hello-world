@@ -14,7 +14,11 @@ setImmediate(()=>{
     console.log('triggerAsyncId', triggerAsyncId())
     console.log('executionAsyncId', executionAsyncId())
     console.log('executaionAsyncResource', executionAsyncResource())
-    const r = executionAsyncResource()
-    r.a = "test"
+})
+
+Promise.resolve(12).then(() => {
+    console.log('in promise')
+    console.log('triggerAsyncId', triggerAsyncId())
+    console.log('executionAsyncId', executionAsyncId())
     console.log('executaionAsyncResource', executionAsyncResource())
 })

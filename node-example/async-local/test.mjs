@@ -14,6 +14,9 @@ async function main(id) {
             await setImmediate()
             ee.emit('a')
         })
+        await Promise.resolve(1).then(() => {
+            f1()
+        })
     })
 }
 

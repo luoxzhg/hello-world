@@ -1,3 +1,4 @@
+'use strict'
 class A {
     getA() {
         return 1
@@ -8,7 +9,7 @@ class B {
     constructor() {
     }
     a = new A();
-    a2 = this.a.getA()
+    a2 = this.a.getA();
 }
 
 const a = new A()
