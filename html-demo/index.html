@@ -1,21 +1,43 @@
 <!DOCTYPE html>
 <html>
-   <head>
-      <title>Test</title>
-   </head>
-   <body>
-      <script>
-         let g = 100;
-         console.log('this in global', this);
-      </script>
-      <script type="importmap">
+
+<head>
+   <title>Test</title>
+</head>
+
+<body>
+   <input type="date" />
+   <input type="button" onclick="console.log(event)" value="到达" />
+   <script>
+      let g = 100;
+      console.log('this in global', this);
+   </script>
+   <script type="importmap">
          {
             "imports": {
                "m": "./m.js"
             }
          }
       </script>
-      <!-- <script type="module" src="m.js"></script> -->
-      <script type="module" src="app.js"></script>
-   </body>
+   <!-- <script type="module" src="m.js"></script> -->
+   <script type="module" src="app.js"></script>
+   <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+   <div id="app">{{ message }}</div>
+
+   <script>
+      const { createApp, ref } = Vue;
+
+      createApp({
+         setup() {
+            const message = ref('Hello vue!');
+            return {
+               message
+            };
+         }
+      }).mount('#app')
+   </script>
+
+</body>
+
 </html>

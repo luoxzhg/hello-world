@@ -6,10 +6,23 @@ import EventEmitter from 'node:events';
 
 const ee = new EventEmitter
 ee.on('a', f2)
+ee.on('b', () => {
+    const ctx = context.getStore();
+    console.log('non async event callback', ctx);
+})
 
 async function main(id) {
     await context.run({ id }, async () => {
+        setTimeout(() => {
+            const ctx = context.getStore();
+            console.log('non async timeout callback', ctx);
+        })
         await f1()
+        process.nextTick(() => {
+            const ctx = context.getStore();
+            console.log('non async next tick', ctx);
+            ee.emit('b')
+        })
         process.nextTick(async() => {
             await setImmediate()
             ee.emit('a')

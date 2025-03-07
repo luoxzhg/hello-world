@@ -1,5 +1,3 @@
-const { performance } = require('perf_hooks');
-
 // 定义监控函数
 function monitorEventLoopLag(interval = 1000) {
    let lastCheck = performance.now();

@@ -5,6 +5,7 @@ const router = createRouter()
 
 app.router.all('/', (req, res) => {
    console.log('in all')
+   console.log(req.query)
    res.sendStatus(200)
 })
 
