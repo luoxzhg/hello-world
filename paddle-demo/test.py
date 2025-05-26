@@ -18,3 +18,4 @@ async def main():
     print(await task2)
 
 asyncio.run(main())
+task = asyncio.create_task(coroutine1())
